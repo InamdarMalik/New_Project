@@ -1,0 +1,26 @@
+This is a K8s file
+
+
+
+Important components of K8s are:
+
+1 Kube-Api Server
+2 Kube Scheduler
+3 ETCD
+4 Kube Controller Manager
+5 Kubelet
+6 Kube-proxy
+7 Pod
+
+
+
+Resources are:
+
+Pod 
+Replicaset
+Deployment
+
+
+
+
+
