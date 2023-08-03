@@ -1,1 +1,20 @@
+<<<<<<< Updated upstream
 This is a docker file
+=======
+This is a Docker file
+
+
+
+Docker containers need images to run 
+Docker images are the source to all those containers which are running in kubernetes inside the pods 
+Also there are some docker commands to review:
+
+
+docker images
+
+docker run nginx
+
+docker describe nginx
+
+
+>>>>>>> Stashed changes
