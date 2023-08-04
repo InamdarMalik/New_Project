@@ -21,6 +21,11 @@ Replicaset
 Deployment
 
 
+Way to setup k8s cluster
 
+There are two ways to setup the k8s cluster:
+
+1 Kubeadm (Hard way)
+2 EKS (On AWS)
 
 
